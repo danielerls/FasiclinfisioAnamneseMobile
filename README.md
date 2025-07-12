@@ -4,8 +4,11 @@ Registro de Anamnese de Fisioterapia da FASICLIN - versão Android Studio
 Versão do módulo Web de Registro de Anamnese de Fisioterapia apresentado no dia 12/07/2025 ao Coordenador Borba.
 
 - Servidor Apache
-- \fasiclinweb (Front-end)
 - \api (Backend)
-Usuário de acesso ao sistema: fernanda Senha de acesso: 123456
+- Android Studio
+- \AppFisioJava1 (frontend Offline) esta compactado em 2 arquivos por limitações de envio do github. baixar os dois aquivos e descompactar
+
+- Usuário de acesso ao sistema: fernanda
+- Senha de acesso: 123456
 
 Obs: Caso a senha do usuário tenha sido removida ou alterada. Solicite ao administrador do banco que crie um novo usuário que seja especialista em fisioterapia.
